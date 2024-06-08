@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    margin: 7rem;
+    color: aliceblue;
+    font-family: Calibri (Corps);
+    background-color: rgb(16, 12, 12);
+}
+div{
+    background-color: rgb(70, 69, 69);
+    margin: 10rem;
+    padding: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+}
+.group div {
+    text-align: center;
+    background-color: rgb(126, 123, 123);
+    margin: 1.5rem;
+    padding: 1rem ;
+    border-radius: 8px;
+    color: aliceblue
+    
+}
+.group img {
+    border-radius: 8rem;
+    width: 25%;
+    height: auto;
+
+
+}
+.group p {
+    margin: 2rem;
+    color: rgb(198, 195, 195);
+}
+h2{
+    font-size: small;
+    color: rgb(152, 186, 17);
+}
